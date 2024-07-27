@@ -47,7 +47,7 @@ rss_icon: false
 # Layout
 # -----------------------------------------------------------------------------
 
-navbar_fixed: false
+navbar_fixed: true
 footer_fixed: true
 search_enabled: false
 socials_in_search: true
@@ -650,5 +650,3 @@ jsonresume:
   - languages
   - interests
   - references
-
-incremental: true # 在 _config.yml 中启用 Jekyll 的增量构建功能，这样只会处理更改的文件，而不是重新生成整个站点。
