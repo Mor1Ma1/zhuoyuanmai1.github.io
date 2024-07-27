@@ -2,7 +2,7 @@
 layout: page
 title: Fire means...
 description: 
-img: assets/img/fire/1x/fire1.webp
+img: assets/img/fire/1x/firemeans1.webp
 importance: 1
 year: 2022
 ---
