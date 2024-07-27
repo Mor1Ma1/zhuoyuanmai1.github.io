@@ -56,9 +56,7 @@
     <iframe
       src="{{ include.path }}"
       {% if include.class %}
-        class="{{ include.class }} video-full-width"
-      {% else %}
-        class="video-full-width"
+        class="{{ include.class }}"
       {% endif %}
       frameborder="0"
       allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
@@ -74,16 +72,16 @@
         height="auto"
       {% endif %}
       {% if include['min-width'] %}
-        min-width="{{ include['min-width'] }}"
+        min-width="{{ include.min-width }}"
       {% endif %}
       {% if include['min-height'] %}
-        min-height="{{ include['min-height'] }}"
+        min-height="{{ include.min-height }}"
       {% endif %}
       {% if include['max-width'] %}
-        max-width="{{ include['max-width'] }}"
+        max-width="{{ include.max-width }}"
       {% endif %}
       {% if include['max-height'] %}
-        height="{{ include['max-height'] }}"
+        height="{{ include.max-height }}"
       {% endif %}
       {% if include.alt %}
         alt="{{ include.alt }}"

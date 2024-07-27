@@ -159,7 +159,7 @@ ul.task-list input[type="checkbox"] {
 .card {
   background-color: var(--global-card-bg-color);
 
-  .card-img-top {
+  .card-img {
     width: 100%;
     height: auto; /* 保持原始比例 */
     display: block;
@@ -167,14 +167,13 @@ ul.task-list input[type="checkbox"] {
   }
 
   .card-title {
-    color: rgba(255, 255, 255, 0.6);
+    color: var(--global-text-color);
     text-align: right; /* 确保文字右对齐 */
     font-size: 1.5rem;
-    font-family: 'OpenSansCondensedBold', sans-serif; /* 应用自定义字体 */
   }
 
   .card-body {
-    padding: 0 1.25rem 1.25rem 1.25rem;
+    padding: 0rem 1.25rem 1.25rem 1.25rem;
   }
 }
 
@@ -622,7 +621,7 @@ footer.sticky-bottom {
 
     &:hover {
       .card-title {
-        color: var(--global-hover-color);
+        color: var(--global-theme-color);
       }
     }
   }
@@ -1075,7 +1074,7 @@ nav[data-toggle="toc"] {
       color: var(--global-theme-color);
 
       .card-title {
-        color: var(--global-hover-color);
+        color: var(--global-theme-color);
       }
     }
   }
@@ -1302,52 +1301,4 @@ ninja-keys::part(ninja-input-wrapper) {
 ::highlight(search) {
   background-color: var(--global-theme-color);
   color: var(--global-text-color);
-}
-
-.video-full-width {
-  width: 100%;
-  height: auto;
-  aspect-ratio: 16/9; /* 保持16:9的比例 */
-  border: none;
-}
-
-.video-container {
-  position: relative;
-  width: 100%;
-  overflow: hidden;
-  padding-top: 56.25%; /* 16:9比例 (9/16 = 0.5625) */
-}
-
-.video-container iframe {
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
-}
-
-.project-links a {
-  color: $orange-color;
-}
-
-.project-links a:hover {
-  color: $klein-blue-color;
-  text-decoration: underline; /* 根据需要添加 */
-}
-
-/* Customize the scrollbar */
-::-webkit-scrollbar {
-  width: 8px;
-}
-
-::-webkit-scrollbar-track {
-  background: #000000; 
-}
-
-::-webkit-scrollbar-thumb {
-  background: rgba(153, 153, 153, 0.2); 
-}
-
-::-webkit-scrollbar-thumb:hover {
-  background: rgba(0, 47, 147, 0.8); 
 }

@@ -21,7 +21,6 @@ $light-purple-color: lighten($purple-color, 25%);
 $pink-color: #f92080 !default;
 $pink-color-light: #ffdddd !default;
 $yellow-color: #efcc00 !default;
-
 $klein-blue-color: rgb(0, 47, 147) !default;
 
 $grey-color: #828282 !default;
@@ -45,8 +44,8 @@ $ti-font-path: "../fonts";
 
 // Back To Top button config
 $back-to-top-z-index: 10;
-$back-to-top-bottom: 20px;
-$back-to-top-right: 14px;
+$back-to-top-bottom: 30px;
+$back-to-top-right: 30px;
 $back-to-top-diameter: 0px; //original：30
 $back-to-top-height: $back-to-top-diameter;
 $back-to-top-width: $back-to-top-diameter;
