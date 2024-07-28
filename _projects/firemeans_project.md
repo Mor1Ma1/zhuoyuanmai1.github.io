@@ -19,10 +19,11 @@ year: 2022
 
 ---
 
+<p>
 This is a project in honor of my great-grandmother. 
 
-In the beliefs of the villagers of Huanglüe, afterlife exists. The project stretches this concept and discusses the communicative property of fire and visualizes a space where audiences are enabled to express their valuable feelings to their loved ones.
-
+In the beliefs of the villagers of Huanglüe, afterlife exists.<br> The project stretches the concept and discusses the communicative property of fire and visualizes a space where audiences are enabled to express their valuable feelings to their loved ones.<br><br>
+</p>
 
 
 <!-- <div class="caption">
@@ -31,10 +32,13 @@ In the beliefs of the villagers of Huanglüe, afterlife exists. The project stre
 
 <div class="row">
     <div class="col-12">
-        {% include video.liquid path="https://www.youtube.com/embed/eWF3mOB6i8M?si=zSI1HgaoZYt-lcGb" class="video-full-width" %}
+        <div class="embed-responsive embed-responsive-16by9">
+            <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/eWF3mOB6i8M?si=zSI1HgaoZYt-lcGb" allowfullscreen></iframe>
+        </div>
     </div>
 </div>
 
+---
 #### Gallery
 ---
 
