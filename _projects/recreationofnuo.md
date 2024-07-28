@@ -3,8 +3,8 @@ layout: page
 title: Recreation of Nuo
 description: 
 img: assets/img/nuo/4x/1.webp
-importance: 1
-year: 2021
+importance: 2
+year: 2022
 ---
 
 ---
