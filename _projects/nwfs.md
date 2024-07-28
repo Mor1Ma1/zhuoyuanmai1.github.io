@@ -65,12 +65,6 @@ To show the gap between people's perception of the future and AI's visualization
 
 <div class="row">
     <div class="col-12">
-        {% include figure.liquid loading="eager" path="assets/img/nwfs/13.webp" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-
-<div class="row">
-    <div class="col-12">
         {% include figure.liquid loading="eager" path="assets/img/nwfs/12.webp" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
