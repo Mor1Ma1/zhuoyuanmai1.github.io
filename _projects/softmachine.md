@@ -86,7 +86,7 @@ The aim of this project is to create a perceptual match scoring system for cloth
 
 <h4>
     <br>
-    GANS
+    <a href="https://en.wikipedia.org/wiki/Generative_adversarial_network" target="_blank">GANS</a>
 </h4>
 
 <p>
