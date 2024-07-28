@@ -51,7 +51,7 @@ The aim of the project is to appeal to the public to reduce pollution by amplify
 <!-- 标题 -->
 <h4>
     <br>
-    Poster
+    <a href="https://www.instagram.com/p/Cmt0_WaNANS/?igshid=YmMyMTA2M2Y%3D" target="_blank">Poster</a>
 </h4>
 
 <!-- 正文 -->
@@ -362,7 +362,7 @@ The aim of the project is to appeal to the public to reduce pollution by amplify
 <!-- 副标题 -->
 <h5>
     <br>
-    Audio Design
+    <a href="https://on.soundcloud.com/v1ukUvHa8tCRZdb36" target="_blank">Audio Design</a>
 </h5>
 
 <!-- 一列正文内容 -->
