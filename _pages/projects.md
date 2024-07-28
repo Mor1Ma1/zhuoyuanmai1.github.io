@@ -17,7 +17,7 @@ horizontal: false
   <!-- Display categorized projects -->
   {% for category in page.display_categories %}
   <a id="{{ category }}" href=".#{{ category }}">
-    <h2 class="category">{{ category }}</h2>
+    <h2 class="category" style="text-align: left; display: flex; align-items: center;">{{ category }}</h2>
   </a>
   {% assign categorized_projects = site.projects | where: "year", category %}
   {% assign sorted_projects = categorized_projects | sort: "importance" %}

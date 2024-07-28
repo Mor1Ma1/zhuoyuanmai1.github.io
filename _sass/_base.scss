@@ -1302,3 +1302,19 @@ ninja-keys::part(ninja-input-wrapper) {
   background-color: var(--global-theme-color);
   color: var(--global-text-color);
 }
+
+::-webkit-scrollbar {
+  width: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: #000000; 
+}
+
+::-webkit-scrollbar-thumb {
+  background: rgba(153, 153, 153, 0.2); 
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: rgba(0, 47, 147, 0.8); 
+}
