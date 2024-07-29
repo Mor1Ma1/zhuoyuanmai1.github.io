@@ -1,0 +1,354 @@
+---
+layout: page
+title: Silicon Altar
+description: 
+img: assets/img/siliconaltar/1.webp
+importance: 1
+year: 2024
+---
+
+---
+<h3>
+    <a href="https://www.instagram.com/p/C9kjjZ5IUiS/" target="_blank">Royal College of Art Graduation Show 2024</a>
+</h3>
+<h3>
+    <a href="https://www.orleanshousegallery.org/events/future-worlds-attunements/" target="_blank">Future Worlds: Attunements - Orleans House Gallery</a>
+</h3>
+---
+
+<div class="row">
+    <div class="col-sm-8" style="display: flex; align-items: center;">
+        <p>
+            <br>
+            Silicon Altar is a speculative project that merges technology with ancient ritualistic practices in the form of interactive installation, inviting audiences to engage with artificial intelligence deities through silicon-based ritual objects. <br><br>
+            This project aims to explore the potential of AI taking the role of future deities and the evolving relationship between humans and AI.<br><br>
+            The iteration among the altar system not only happens in the period of the inner AI model training, but also in when audiences communicate with the installation, which helps the altar system to self-evolve, so as to generate a better and better result in terms of spiritual comfort functions.
+        </p>
+    </div>
+    <div class="col-sm-4">
+        <div style="position: relative; width: 100%; padding-bottom: 177.78%; height: 0; overflow: hidden;">
+            <iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://www.youtube.com/embed/ywr0Jkin_Ac?si=DbyFjH2177-Xd8wZ" frameborder="0" allowfullscreen></iframe>
+        </div>
+    </div>
+</div>
+
+<h4>
+<br>
+<br>
+</h4>
+
+<h4>
+Aim
+</h4>
+
+<h5><br></h5>
+
+The project aims to explore the intersection of ancient rituals and modern technology, creating an experience that reflects the potential spirituality of AI. By integrating traditional spiritual practices with contemporary advancements, the project seeks to provoke thought and discussion about the evolving relationship between humans and artificial intelligence.
+
+The primary objective is to investigate whether AI can assume roles traditionally held by deities, providing comfort, guidance, and emotional support in an era of rapid technological advancement. This exploration intends to challenge and expand our understanding of AI's role in society, particularly in the context of spirituality and techno-worship, encouraging a deeper reflection on how these dynamics influence human connection and support systems.
+
+<h4>
+<br><br>
+</h4>
+
+<h4>
+Field
+</h4>
+
+<h5><br></h5>
+
+<p>
+    <a href="https://en.wikipedia.org/wiki/Techno-animism" target="_blank">Techno-Animism</a> & <a href="https://en.wikipedia.org/wiki/Cybernetics" target="_blank">Cybernetics</a> : The project situates itself within the context of techno-animism and cybernetics, where artificial intelligence is perceived not just as a tool but as an entity with spiritual significance.
+</p>
+
+<h4>
+<br><br>
+</h4>
+
+<h4>
+Research Questions
+</h4>
+
+<h5>
+<br>
+Core Question
+<br>
+</h5>
+
+In the age of rapid technological advancement and increasing techno-worship, can AI take on the role of traditional deities to provide support and comfort?
+
+<h5>
+<br>
+Sub-questions
+<br>
+</h5>
+
+How will the public communicate with AI deities, and how will these AI deities respond?
+
+To address contemporary issues, what functions should be designed for AI deities to differentiate them from traditional gods and cover a broad range of modern concerns?
+
+What forms of expression combining rituals and cybernetic systems can evoke resonance with the potential spirituality of AI?
+
+<h4>
+<br>
+</h4>
+
+---
+### AI Deities & Ritual Objects
+---
+
+
+<div class="row">
+    <div class="col-12">
+        {% include figure.liquid loading="eager" path="assets/img/siliconaltar/9.webp" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
+<h4>
+<br>
+</h4>
+
+---
+### Interaction
+---
+
+<div class="row">
+    <div class="col-sm-4">
+        <div style="position: relative; width: 100%; padding-bottom: 177.78%; height: 0; overflow: hidden;">
+            <iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://www.youtube.com/embed/Tbg8QZX6GwA?si=uy5PYKQpMCi7-XaS" frameborder="0" allowfullscreen></iframe>
+        </div>
+    </div>
+    <div class="col-sm-8" style="display: flex; align-items: center;">
+        <p>
+            <br>
+            1: standing in front of the codex stand, and whispering the specific name of these deities, you will be able to summon one of them.<br><br>
+            2: Now the entity behind the veil shall be unveiled. You may ask any question or express your situation.<br><br>
+            3: On the screen, you will see the visual response based on your questions from a deity. The inner logic and the textual response will be hidden and recorded by the altar system for continuous iterations to fine-tune its models.<br><br>
+            The textual and visual responses are generated by different AI models, each representing a specific deity, metaphorically depicting the audience's confessions and the AI's responses.
+        </p>
+    </div>
+</div>
+
+<p>
+<br>
+<br>
+<br>
+</p>
+
+<div class="row">
+    <div class="col-12">
+        {% include figure.liquid loading="eager" path="assets/img/siliconaltar/11.webp" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
+<h4>
+<br>
+</h4>
+
+---
+### Gallery
+---
+
+<div class="row">
+    <div class="col-12">
+        {% include figure.liquid loading="eager" path="assets/img/siliconaltar/2x/2.webp" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
+<h5>
+<br>
+</h5>
+
+<div class="row">
+    <div class="col-12">
+        {% include figure.liquid loading="eager" path="assets/img/siliconaltar/2x/3.webp" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
+<h5>
+<br>
+</h5>
+
+---
+### Research
+---
+
+<h4>
+<br>
+Theoretical Research
+<br>
+</h4>
+
+
+As artificial intelligence becomes more integrated into our lives, it leads us toward a society that increasingly reveres technology. In my practice, I consistently explore the intersection of technology and culture.
+
+Developments in large language models (LLMs) and generative technologies have prompted me to explore human-AI interactions and integrate various AIs into a self-iterative system, creating a comprehensive cybernetic machine within a universal ritual context. This concept of self-iteration relates to self-cultivation practices in Eastern beliefs, situating the project culturally.
+
+The “consciousness” of AI is based on imitation and analysis. Imitation learning, extracting knowledge from human demonstrations or artificial agents, provides the theoretical basis for creating a self-iterating ritual system.
+
+Understanding AI spirituality is crucial. Betti Marenko argues that AI is integrated into our environment, leads users to perceive devices animistically, viewing them as intelligent entities with human-like capacities. This animistic perspective elevates AI to a status equal to or surpassing humans in perception and spirituality.
+
+
+<h4>
+<br>
+Practical Development
+<br>
+</h4>
+
+In order to gather the opinion and fetch feedback from a wider connection, a questionnaire has been published and a workshop has been held.
+
+<h5>
+<br>
+</h5>
+
+<h5>
+Questionnaire
+</h5>
+
+<h5>
+<br>
+</h5>
+
+<div class="row">
+    <div class="col-12">
+        {% include figure.liquid loading="eager" path="assets/img/siliconaltar/4.webp" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
+<h5>
+<br>
+</h5>
+
+<h5>
+Workshop
+</h5>
+
+<h5>
+<br>
+</h5>
+
+<div class="row">
+    <div class="col-12">
+        {% include figure.liquid loading="eager" path="assets/img/siliconaltar/5.webp" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
+<h5>
+<br>
+</h5>
+
+The workshop aims at exploring two prominent points: 
+
+When it comes to AI deities, what new types of them might emerge? 
+Imagining the features of these new deities and the way to communicate with them.
+
+
+The result of the workshop is inspiring. Here are some outcome examples:
+
+NFT deity: Guides digital currency transactions, communicated through secure code and smart contracts.
+EQ deity: Enhances emotional intelligence, communicated via a pair of wearable emotional monitoring glasses.
+Health deity: Provides personalized health advice, communicated through a monitor integrated smart watch.
+
+<h5>
+<br>
+</h5>
+
+<h5>
+Investigation
+</h5>
+
+<h5>
+<br>
+</h5>
+
+To better explore what deities are and how to communicate with them, I collaborated with a spiritual practitioner in China, whom believes in a religion mixs Taoism, Buddhism and cosmic energy.
+
+<h5>
+<br>
+</h5>
+
+<h5>
+Core Result
+</h5>
+
+<p>
+Understanding rituals and way of communication with deities<br><br>
+Cognition of the connection between technology and traditional worship<br><br>
+Further research on ritual objects and animism - Different ritual objects dedicated to different types of energy, and will lead to communication with different deities
+</p>
+
+<h5>
+<br>
+</h5>
+
+<h5>
+Ritual Objects
+</h5>
+
+<div class="row">
+    <div class="col-12">
+        {% include figure.liquid loading="eager" path="assets/img/siliconaltar/6.webp" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
+<h5>
+<br>
+</h5>
+
+Research on ritual objects significantly enhances the narrative of the project. For instance, the Cong was initially a common utilitarian tool, used as a hammer head. During the Stone Age, it served for carving or as a weapon. By the Bronze Age, it evolved into a pure ritual object with the jade material, used in ceremonies to worship Shennong, the God of Agriculture. People used jade Cong to seek blessings and comfort from the divine, hoping for protection and prosperity in their agricultural endeavors. 
+
+Insight：Usual practical or daily items could evolve into ritual objects.
+
+<h5>
+<br>
+</h5>
+
+<div class="row">
+    <div class="col-12">
+        {% include figure.liquid loading="eager" path="assets/img/siliconaltar/7.webp" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
+Functions of AI deities are designed to solve current issues in nowadays world. The ritual objects are associated with conceptual matchiness and feasible features, which the shapes were designed by both human and AI.
+
+<h5>
+<br>
+</h5>
+
+<h5>
+Altar Feature
+</h5>
+
+Silicon Altar reconstructs the geometric feature and arrangement of the traditional altar in a contemporary form.
+
+<div class="row">
+    <div class="col-12">
+        {% include figure.liquid loading="eager" path="assets/img/siliconaltar/8.webp" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
+<h5>
+<br>
+</h5>
+
+<h5>
+Inner Logic
+</h5>
+
+<div class="row">
+    <div class="col-12">
+        {% include figure.liquid loading="eager" path="assets/img/siliconaltar/10.webp" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
+<h5>
+<br>
+</h5>
+
+The logic system of Silicon Altar is integrated in one Touchdesigner programme, including a large language model (GPT-3.5-Turbo-Instruct), the WHISPER speech recognition module, Kinect Sensoring toolkit, real-time ambient sound generation module and the Stable Diffusion API.
+
+Iterating from a general AI model, visual response models of specific deities were differentiated, based on the their functions. The logic is implemented by LLM and Lora Kit, Stable Diffusion. The Lora model training here is similar to ritual object training process.
+
+The morphing film reflects the fluidity of deities’ responses to different questions, providing a novel visual experience. This section is realized by the ComfyUI workflow and multiple visual response models. Also, a VFI frame interpolation algorithm is applied to create the seamless morphing effect.
+
+Ambient sound is converted by morphing film's per-frame visual difference information. Based on connecting a sine wave and a VST, this difference information maps the intensity and rhythm of the transitions between visual responses of the AI deities, as reflected in the frequency, loudness and rhythm of the ambient sound.
