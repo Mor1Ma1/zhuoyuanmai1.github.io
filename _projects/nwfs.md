@@ -3,7 +3,7 @@ layout: page
 title: Nuclear Waste Forecast System
 description: 
 img: assets/img/nwfs/1.webp
-importance: 1
+importance: 2
 year: 2023
 ---
 
