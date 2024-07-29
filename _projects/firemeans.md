@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Fire means...
+title: Fire Means...
 description: 
 img: assets/img/fire/4x/1.webp
 importance: 1
