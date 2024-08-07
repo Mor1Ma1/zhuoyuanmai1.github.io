@@ -2,7 +2,7 @@
 layout: page
 title: Silicon Altar
 description: 
-img: assets/img/siliconaltar/1.webp
+img: assets/img/siliconaltar/1_header.webp
 importance: 1
 year: 2024
 ---
